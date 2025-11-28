@@ -1,0 +1,10 @@
+{
+  "petstore": {
+    "username": "j2ee",
+    "password": "j2ee"
+  },
+  "saucedemo": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  }
+}
